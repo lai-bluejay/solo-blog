@@ -6,10 +6,12 @@
 <p align="center"><a title="一朝一夕，惟愿卿安" target="_blank" href="https://github.com/lai-bluejay/solo-blog"><img src="https://img.shields.io/github/last-commit/lai-bluejay/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/lai-bluejay/solo-blog"><img src="https://img.shields.io/github/repo-size/lai-bluejay/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.4.0-f1e05a.svg?style=flat-square"></a>
-</p>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/lai-bluejay/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [test](https://www.jithub.cn/articles/2019/04/18/1555558751454.html)
+* [Visualising Activation Functions in Neural Networks](https://www.jithub.cn/articles/2019/04/18/1555558277373.html)
 * [如何在Ubuntu下编译CUDA 10.0 TensorFlow-GPU r.1.13版本](https://www.jithub.cn/articles/2019/03/26/1553577559345.html)
 * [用fastai解释什么是one-cycle-policy](https://www.jithub.cn/articles/2019/03/19/1552928879684.html)
 * [深度学习课程笔记：fastai course-v3 lesson1 ](https://www.jithub.cn/articles/2019/03/12/1552402440287.html)
