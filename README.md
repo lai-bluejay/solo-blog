@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [test](https://www.jithub.cn/articles/2019/04/18/1555558751454.html)
-* [Visualising Activation Functions in Neural Networks](https://www.jithub.cn/articles/2019/04/18/1555558277373.html)
+* [test](https://www.jithub.cn/articles/2019/04/18/1555582980606.html)
+* [如何选择激活函数；关于激活函数，你想要知道的都在这](https://www.jithub.cn/articles/2019/04/18/1555558277373.html)
 * [如何在Ubuntu下编译CUDA 10.0 TensorFlow-GPU r.1.13版本](https://www.jithub.cn/articles/2019/03/26/1553577559345.html)
 * [用fastai解释什么是one-cycle-policy](https://www.jithub.cn/articles/2019/03/19/1552928879684.html)
 * [深度学习课程笔记：fastai course-v3 lesson1 ](https://www.jithub.cn/articles/2019/03/12/1552402440287.html)
