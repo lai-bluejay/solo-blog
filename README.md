@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [梯度消失和梯度爆炸](https://www.jithub.cn/articles/2019/04/21/1555826031159.html)
 * [test](https://www.jithub.cn/articles/2019/04/18/1555582980606.html)
 * [如何选择激活函数；关于激活函数，你想要知道的都在这](https://www.jithub.cn/articles/2019/04/18/1555558277373.html)
 * [如何在Ubuntu下编译CUDA 10.0 TensorFlow-GPU r.1.13版本](https://www.jithub.cn/articles/2019/03/26/1553577559345.html)
