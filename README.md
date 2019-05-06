@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [jupyter notebook 安装及其配置](https://www.jithub.cn/articles/2019/05/05/1557039136116.html)
 * [我的开源](https://www.jithub.cn/my-github-repos)
 * [推荐小工具](https://www.jithub.cn/toys)
 * [梯度消失和梯度爆炸](https://www.jithub.cn/articles/2019/04/21/1555826031159.html)
