@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [word2vec ，通俗易懂](https://www.jithub.cn/articles/2019/05/08/1557307154664.html)
 * [jupyter notebook 安装及其配置](https://www.jithub.cn/articles/2019/05/05/1557039136116.html)
 * [我的开源](https://www.jithub.cn/my-github-repos)
 * [推荐小工具](https://www.jithub.cn/toys)
